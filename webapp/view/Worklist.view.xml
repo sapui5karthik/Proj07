@@ -3,7 +3,7 @@
 	<semantic:SemanticPage id="page" headerPinnable="false" toggleHeaderOnTitleClick="false">
 
 		<semantic:titleHeading>
-			<Title text="SAP Products with OData Query Strings"/>
+			<Title text="SAP Products with OData Query Strings-karthik"/>
 		</semantic:titleHeading>
 
 		<semantic:content>
